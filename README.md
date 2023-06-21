@@ -1,23 +1,12 @@
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning English...
-- 💞️ I’m looking to collaborate on Android Projects...
-- 📫 How to reach me ...
-
-<!---
-PedroEstrella/PedroEstrella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 # 👋 Hi, I’m @PedroEstrella ![](https://komarev.com/ghpvc/?username=PedroEstrella&label=Visitors+Count&color=brightgreen)
 <h1 align="center">👋 Hi, I’m @PedroEstrella</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/PedroEstrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="infotools" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@pedro.gutierrez.estrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infotoolssv" height="30" width="40" /></a>
-</p>
-I'm a Java developer.
+-     I'm a Java developer.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning English...
+- 💞️ I’m looking to collaborate on Android Projects...
+- 📫 How to reach me ...
 
 ## Languages, Frameworks & Tools working on
 
@@ -35,6 +24,17 @@ I'm a Java developer.
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+</p>
+
+<!---
+PedroEstrella/PedroEstrella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/PedroEstrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="infotools" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pedro.gutierrez.estrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infotoolssv" height="30" width="40" /></a>
 </p>
 
 
