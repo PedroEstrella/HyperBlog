@@ -1,4 +1,4 @@
-<h1 align="center"> # 👋 Hi, I’m @PedroEstrella ![](https://komarev.com/ghpvc/?username=PedroEstrella&label=Visitors+Count&color=brightgreen)  </h1>
+ # 👋 Hi, I’m @PedroEstrella ![](https://komarev.com/ghpvc/?username=PedroEstrella&label=Visitors+Count&color=brightgreen)
      
 - 👀 I’m interested in ...
 - 👀 I'm a Java developer.
