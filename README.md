@@ -1,5 +1,4 @@
-# 👋 Hi, I’m @PedroEstrella ![](https://komarev.com/ghpvc/?username=PedroEstrella&label=Visitors+Count&color=brightgreen)
-<h1 align="center">👋 Hi, I’m @PedroEstrella</h1>
+<h1 align="center"> # 👋 Hi, I’m @PedroEstrella ![](https://komarev.com/ghpvc/?username=PedroEstrella&label=Visitors+Count&color=brightgreen)  </h1>
      
 - 👀 I’m interested in ...
 - 👀 I'm a Java developer.
@@ -40,4 +39,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://fb.com/PedroEstrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="infotools" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@pedro.gutierrez.estrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infotoolssv" height="30" width="40" /></a>
 </p>
----
