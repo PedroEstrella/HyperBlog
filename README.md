@@ -1,9 +1,8 @@
-
 # 👋 Hi, I’m @PedroEstrella ![](https://komarev.com/ghpvc/?username=PedroEstrella&label=Visitors+Count&color=brightgreen)
 <h1 align="center">👋 Hi, I’m @PedroEstrella</h1>
-
--     I'm a Java developer.
+     
 - 👀 I’m interested in ...
+- 👀 I'm a Java developer.
 - 🌱 I’m currently learning English...
 - 💞️ I’m looking to collaborate on Android Projects...
 - 📫 How to reach me ...
@@ -31,18 +30,14 @@ PedroEstrella/PedroEstrella is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/PedroEstrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="infotools" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@pedro.gutierrez.estrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infotoolssv" height="30" width="40" /></a>
-</p>
-
-
 ## Github Contributes
 ![](https://github-readme-stats.vercel.app/api?username=PedroEstrella&show_icons=true&theme=transparent)<br/>
 
 ## 🌐Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ngoquocdatt)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/PedroEstrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="infotools" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pedro.gutierrez.estrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infotoolssv" height="30" width="40" /></a>
+</p>
 ---
